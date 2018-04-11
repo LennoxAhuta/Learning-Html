@@ -1,0 +1,33 @@
+.navigationBar{
+    list-style-type: none;
+    margin: 0px;
+    padding: 20px;
+    overflow: hidden;
+    background-color: red;
+    width: 100%;
+}
+
+.navigationBar li {
+    display: inline-block;
+    width:23%;
+    padding-left: 30px;
+}
+
+.navigationBar li a {
+    display: inline;
+    color: white;
+    /* text-align: center; */
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+/*jfoiejfijoRI03JOIJR3029URIJV  I;2Q4WUJD80;*/
+.navigationBar li a:hover {
+    background-color: #111;
+}
+
+.Home{
+    background-image: url('maasai.jpg');
+    height:500px;
+}
+
